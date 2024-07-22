@@ -1,7 +1,5 @@
 # Module 2: Introduction to Relational Databases and Tables
 
-
-
 ## Relational Database Concepts
 
 ## Types of SQL Statements: DDL vs DML
